@@ -20,6 +20,8 @@ npm i react-toastify
 react-loader-spinner
 tailwincss
 search 
+tanstackQuary
+axios
 
 
 | Action          | Method | Endpoint     |
