@@ -36,4 +36,4 @@ axios
 
 Clone the repository:
 
-git clone https://github.com/yourusername/user-crud-app.git
+git clone https://github.com/nitin01010/user-crud-app
